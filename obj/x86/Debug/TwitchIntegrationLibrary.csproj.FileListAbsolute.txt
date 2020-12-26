@@ -1,0 +1,6 @@
+C:\Users\Nasko\AppData\Local\Temporary Projects\TwitchIntegrationLibrary\bin\Debug\TwitchIntegrationLibrary.exe
+C:\Users\Nasko\AppData\Local\Temporary Projects\TwitchIntegrationLibrary\bin\Debug\TwitchIntegrationLibrary.pdb
+C:\Users\Nasko\AppData\Local\Temporary Projects\TwitchIntegrationLibrary\obj\x86\Debug\TwitchIntegrationLibrary.exe
+C:\Users\Nasko\AppData\Local\Temporary Projects\TwitchIntegrationLibrary\obj\x86\Debug\TwitchIntegrationLibrary.pdb
+C:\Users\Nasko\documents\visual studio 2010\Projects\TwitchIntegrationLibrary\TwitchIntegrationLibrary\obj\x86\Debug\TwitchIntegrationLibrary.exe
+C:\Users\Nasko\documents\visual studio 2010\Projects\TwitchIntegrationLibrary\TwitchIntegrationLibrary\obj\x86\Debug\TwitchIntegrationLibrary.pdb
